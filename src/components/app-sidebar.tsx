@@ -1,4 +1,4 @@
-import { Calendar, Home, Inbox, Search, Settings } from "lucide-react"
+import {Home, Inbox, } from "lucide-react"
 
 import {
   Sidebar,
@@ -65,6 +65,7 @@ export function AppSidebar() {
     </Sidebar>
   )
 }
+
 
 
 
